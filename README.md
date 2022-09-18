@@ -35,7 +35,7 @@
 <br>
 <br>
 
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"><img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" data-canonical-src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://giffiles.alphacoders.com/209/209474.gif"><img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" data-canonical-src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width:100%;"></a>
 <ul>
 <li><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> Currently working with Cloud Computing, Java, Python, Web Development;</li>
 <li>👨🏻&zwj;💻 I’m looking to collaborate on kick ass products;</li>
