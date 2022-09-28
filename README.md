@@ -43,6 +43,14 @@
 <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji> Fun-Fact: Anything is possible;</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="mailto:phoolwanihritik7877@gmail.com.com">phoolwanihritik7877@gmail.com</a>;</li>
 </ul>
+    
+    
+    <h2 align='center'> My GitHub Stats </h2>
+
+<p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hritik-HP&theme=radical"> </p>
+<p align = "center"><img src = "https://github-readme-stats.vercel.app/api?username=Hritik-HP&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hritik-HP&theme=radical" weidth = "50%" height="195px"> </p>
+    
 
 <!--[![Hritik's github stats](https://github-readme-
 stats.vercel.app/api?//username=Hritik-HP&show_icons=true&theme=graywhite)](https://github.com/Hritik-HP/Hritik-HP)-->
