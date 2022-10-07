@@ -44,9 +44,7 @@
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="mailto:phoolwanihritik7877@gmail.com.com">phoolwanihritik7877@gmail.com</a>;</li>
 </ul>
     
-    
-    <h2 align='center'> My GitHub Stats </h2>
-
+     <center><h1>My GitHub Stats</h1></center>
 <p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hritik-HP&theme=radical"> </p>
 <p align = "center"><img src = "https://github-readme-stats.vercel.app/api?username=Hritik-HP&show_icons=true&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hritik-HP&theme=radical" weidth = "50%" height="195px"> </p>
