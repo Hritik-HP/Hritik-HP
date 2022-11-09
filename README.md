@@ -48,6 +48,10 @@
 <p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hritik-HP&theme=radical"> </p>
 <p align = "center"><img src = "https://github-readme-stats.vercel.app/api?username=Hritik-HP&show_icons=true&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hritik-HP&theme=radical" weidth = "50%" height="195px"> </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Hritik-HP/count.svg" />
+</p>
     
 
 <!--[![Hritik's github stats](https://github-readme-
