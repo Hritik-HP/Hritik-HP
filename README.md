@@ -58,13 +58,6 @@
 stats.vercel.app/api?//username=Hritik-HP&show_icons=true&theme=graywhite)](https://github.com/Hritik-HP/Hritik-HP)-->
 
 
-
-
-
-
-
-<a href=#><img src="contributions.svg"></a>
-
   </body>
   
 <!--       <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
