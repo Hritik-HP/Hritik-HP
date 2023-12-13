@@ -6,7 +6,7 @@
    
   </head>
   <body>
-  <center><h1>Hey 👋, My name is Hritik .</h1></center>
+  <center><h1>Hey! If you enjoy my software development content, consider supporting my work by buying me a coffee. Your small gesture fuels my coding sessions and keeps the content coming. Cheers! ☕ [https://www.buymeacoffee.com/hritik2]</h1></center>
   
   
 
