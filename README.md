@@ -6,7 +6,7 @@
    
   </head>
   <body>
-  <center><h1>Hey! If you enjoy my software development content, consider supporting my work by buying me a coffee. Your small gesture fuels my coding sessions and keeps the content coming. Cheers! ☕ [https://www.buymeacoffee.com/hritik2]</h1></center>
+  <center><h1>Hey 👋, My name is Hritik .</h1></center>
   
   
 
@@ -42,6 +42,8 @@
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about anything, I am happy to help;</li>
 <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji> Fact: Anything is possible;</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="mailto:phoolwanihritik7877@gmail.com.com">phoolwanihritik7877@gmail.com</a>;</li>
+  
+<h6>Love my software dev content? Fuel my work with a coffee! ☕ [Your Buy Me a Coffee Link] Thanks a bunch!</h6>
 </ul>
     <h1><b>My GitHub Stats</b></h1>
    
