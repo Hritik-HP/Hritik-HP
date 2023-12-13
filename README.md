@@ -43,7 +43,7 @@
 <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji> Fact: Anything is possible;</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="mailto:phoolwanihritik7877@gmail.com.com">phoolwanihritik7877@gmail.com</a>;</li>
   
-<h6>Love my software dev content? Fuel my work with a coffee! ☕ [Your Buy Me a Coffee Link] Thanks a bunch!</h6>
+<h6>Love my software dev content? Fuel my work with a coffee! ☕ (https://www.buymeacoffee.com/hritik2) Thanks a bunch!</h6>
 </ul>
     <h1><b>My GitHub Stats</b></h1>
    
